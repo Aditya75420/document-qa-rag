@@ -1,0 +1,657 @@
+{
+  "fixed_500_100": {
+    "summary": {
+      "hit@1": 0.433,
+      "hit@3": 0.7,
+      "hit@5": 0.8,
+      "mrr": 0.579,
+      "chunks": 51
+    },
+    "rows": [
+      {
+        "question": "What is the average salary hike?",
+        "rank": 2
+      },
+      {
+        "question": "How many hiring partners does the program have?",
+        "rank": 2
+      },
+      {
+        "question": "How many instructors with industry experience are there?",
+        "rank": 2
+      },
+      {
+        "question": "How many companies have had their employees trained?",
+        "rank": null
+      },
+      {
+        "question": "How many data science jobs are open worldwide?",
+        "rank": 1
+      },
+      {
+        "question": "How many learners does the program claim to have?",
+        "rank": 1
+      },
+      {
+        "question": "How many months does the program run?",
+        "rank": null
+      },
+      {
+        "question": "How many hours of hands-on learning does the course include?",
+        "rank": 3
+      },
+      {
+        "question": "Is there an in-person visit to the institute during the course?",
+        "rank": 2
+      },
+      {
+        "question": "What educational qualification do applicants need?",
+        "rank": 4
+      },
+      {
+        "question": "What exam do candidates have to pass before getting admission?",
+        "rank": 1
+      },
+      {
+        "question": "Which module teaches how to make database queries run faster?",
+        "rank": 1
+      },
+      {
+        "question": "Which tree-based algorithm is taught in supervised learning?",
+        "rank": null
+      },
+      {
+        "question": "Which technique for reducing the number of features is covered?",
+        "rank": 5
+      },
+      {
+        "question": "Which library is used for neural network training?",
+        "rank": 1
+      },
+      {
+        "question": "Which modern language model architectures are part of the generative AI module?",
+        "rank": 2
+      },
+      {
+        "question": "Is there a case study about trading in equities?",
+        "rank": null
+      },
+      {
+        "question": "Which business intelligence dashboard tool is offered as an optional module?",
+        "rank": 1
+      },
+      {
+        "question": "What will I learn about putting models into production?",
+        "rank": null
+      },
+      {
+        "question": "Which project teaches how to configure a Spark application?",
+        "rank": 1
+      },
+      {
+        "question": "Which project involves estimating what a home will sell for?",
+        "rank": 1
+      },
+      {
+        "question": "Which IIT Roorkee professor advises the course?",
+        "rank": 1
+      },
+      {
+        "question": "What portion of the batch works in the IT industry?",
+        "rank": 1
+      },
+      {
+        "question": "Who switched careers from a customer service agent to a data scientist?",
+        "rank": 3
+      },
+      {
+        "question": "How many job openings can learners see every month on the job portal?",
+        "rank": 4
+      },
+      {
+        "question": "Who awards the certificate when the program is completed?",
+        "rank": 2
+      },
+      {
+        "question": "Does Intellipaat work with any universities in the United Kingdom?",
+        "rank": null
+      },
+      {
+        "question": "In which city is the Indian head office of Intellipaat?",
+        "rank": 1
+      },
+      {
+        "question": "How fast is the global data science industry expected to grow each year?",
+        "rank": 1
+      },
+      {
+        "question": "What shortage of data scientists did McKinsey predict?",
+        "rank": 1
+      }
+    ]
+  },
+  "fixed_300_50": {
+    "summary": {
+      "hit@1": 0.5,
+      "hit@3": 0.733,
+      "hit@5": 0.833,
+      "mrr": 0.623,
+      "chunks": 82
+    },
+    "rows": [
+      {
+        "question": "What is the average salary hike?",
+        "rank": 1
+      },
+      {
+        "question": "How many hiring partners does the program have?",
+        "rank": 1
+      },
+      {
+        "question": "How many instructors with industry experience are there?",
+        "rank": 3
+      },
+      {
+        "question": "How many companies have had their employees trained?",
+        "rank": 4
+      },
+      {
+        "question": "How many data science jobs are open worldwide?",
+        "rank": 1
+      },
+      {
+        "question": "How many learners does the program claim to have?",
+        "rank": 2
+      },
+      {
+        "question": "How many months does the program run?",
+        "rank": 1
+      },
+      {
+        "question": "How many hours of hands-on learning does the course include?",
+        "rank": null
+      },
+      {
+        "question": "Is there an in-person visit to the institute during the course?",
+        "rank": null
+      },
+      {
+        "question": "What educational qualification do applicants need?",
+        "rank": 5
+      },
+      {
+        "question": "What exam do candidates have to pass before getting admission?",
+        "rank": 1
+      },
+      {
+        "question": "Which module teaches how to make database queries run faster?",
+        "rank": 1
+      },
+      {
+        "question": "Which tree-based algorithm is taught in supervised learning?",
+        "rank": 3
+      },
+      {
+        "question": "Which technique for reducing the number of features is covered?",
+        "rank": null
+      },
+      {
+        "question": "Which library is used for neural network training?",
+        "rank": 1
+      },
+      {
+        "question": "Which modern language model architectures are part of the generative AI module?",
+        "rank": 1
+      },
+      {
+        "question": "Is there a case study about trading in equities?",
+        "rank": null
+      },
+      {
+        "question": "Which business intelligence dashboard tool is offered as an optional module?",
+        "rank": 1
+      },
+      {
+        "question": "What will I learn about putting models into production?",
+        "rank": 3
+      },
+      {
+        "question": "Which project teaches how to configure a Spark application?",
+        "rank": 2
+      },
+      {
+        "question": "Which project involves estimating what a home will sell for?",
+        "rank": 2
+      },
+      {
+        "question": "Which IIT Roorkee professor advises the course?",
+        "rank": 1
+      },
+      {
+        "question": "What portion of the batch works in the IT industry?",
+        "rank": 1
+      },
+      {
+        "question": "Who switched careers from a customer service agent to a data scientist?",
+        "rank": 4
+      },
+      {
+        "question": "How many job openings can learners see every month on the job portal?",
+        "rank": 1
+      },
+      {
+        "question": "Who awards the certificate when the program is completed?",
+        "rank": 1
+      },
+      {
+        "question": "Does Intellipaat work with any universities in the United Kingdom?",
+        "rank": null
+      },
+      {
+        "question": "In which city is the Indian head office of Intellipaat?",
+        "rank": 1
+      },
+      {
+        "question": "How fast is the global data science industry expected to grow each year?",
+        "rank": 2
+      },
+      {
+        "question": "What shortage of data scientists did McKinsey predict?",
+        "rank": 1
+      }
+    ]
+  },
+  "fixed_800_150": {
+    "summary": {
+      "hit@1": 0.5,
+      "hit@3": 0.667,
+      "hit@5": 0.9,
+      "mrr": 0.634,
+      "chunks": 36
+    },
+    "rows": [
+      {
+        "question": "What is the average salary hike?",
+        "rank": 4
+      },
+      {
+        "question": "How many hiring partners does the program have?",
+        "rank": 4
+      },
+      {
+        "question": "How many instructors with industry experience are there?",
+        "rank": 3
+      },
+      {
+        "question": "How many companies have had their employees trained?",
+        "rank": 4
+      },
+      {
+        "question": "How many data science jobs are open worldwide?",
+        "rank": 1
+      },
+      {
+        "question": "How many learners does the program claim to have?",
+        "rank": 1
+      },
+      {
+        "question": "How many months does the program run?",
+        "rank": 4
+      },
+      {
+        "question": "How many hours of hands-on learning does the course include?",
+        "rank": 4
+      },
+      {
+        "question": "Is there an in-person visit to the institute during the course?",
+        "rank": 2
+      },
+      {
+        "question": "What educational qualification do applicants need?",
+        "rank": 2
+      },
+      {
+        "question": "What exam do candidates have to pass before getting admission?",
+        "rank": 1
+      },
+      {
+        "question": "Which module teaches how to make database queries run faster?",
+        "rank": 1
+      },
+      {
+        "question": "Which tree-based algorithm is taught in supervised learning?",
+        "rank": 4
+      },
+      {
+        "question": "Which technique for reducing the number of features is covered?",
+        "rank": 2
+      },
+      {
+        "question": "Which library is used for neural network training?",
+        "rank": null
+      },
+      {
+        "question": "Which modern language model architectures are part of the generative AI module?",
+        "rank": 5
+      },
+      {
+        "question": "Is there a case study about trading in equities?",
+        "rank": null
+      },
+      {
+        "question": "Which business intelligence dashboard tool is offered as an optional module?",
+        "rank": 1
+      },
+      {
+        "question": "What will I learn about putting models into production?",
+        "rank": null
+      },
+      {
+        "question": "Which project teaches how to configure a Spark application?",
+        "rank": 1
+      },
+      {
+        "question": "Which project involves estimating what a home will sell for?",
+        "rank": 1
+      },
+      {
+        "question": "Which IIT Roorkee professor advises the course?",
+        "rank": 2
+      },
+      {
+        "question": "What portion of the batch works in the IT industry?",
+        "rank": 1
+      },
+      {
+        "question": "Who switched careers from a customer service agent to a data scientist?",
+        "rank": 1
+      },
+      {
+        "question": "How many job openings can learners see every month on the job portal?",
+        "rank": 1
+      },
+      {
+        "question": "Who awards the certificate when the program is completed?",
+        "rank": 1
+      },
+      {
+        "question": "Does Intellipaat work with any universities in the United Kingdom?",
+        "rank": 1
+      },
+      {
+        "question": "In which city is the Indian head office of Intellipaat?",
+        "rank": 1
+      },
+      {
+        "question": "How fast is the global data science industry expected to grow each year?",
+        "rank": 1
+      },
+      {
+        "question": "What shortage of data scientists did McKinsey predict?",
+        "rank": 1
+      }
+    ]
+  },
+  "lines_500": {
+    "summary": {
+      "hit@1": 0.533,
+      "hit@3": 0.633,
+      "hit@5": 0.867,
+      "mrr": 0.623,
+      "chunks": 47
+    },
+    "rows": [
+      {
+        "question": "What is the average salary hike?",
+        "rank": 1
+      },
+      {
+        "question": "How many hiring partners does the program have?",
+        "rank": 4
+      },
+      {
+        "question": "How many instructors with industry experience are there?",
+        "rank": null
+      },
+      {
+        "question": "How many companies have had their employees trained?",
+        "rank": 5
+      },
+      {
+        "question": "How many data science jobs are open worldwide?",
+        "rank": 1
+      },
+      {
+        "question": "How many learners does the program claim to have?",
+        "rank": 1
+      },
+      {
+        "question": "How many months does the program run?",
+        "rank": 4
+      },
+      {
+        "question": "How many hours of hands-on learning does the course include?",
+        "rank": 4
+      },
+      {
+        "question": "Is there an in-person visit to the institute during the course?",
+        "rank": 1
+      },
+      {
+        "question": "What educational qualification do applicants need?",
+        "rank": 3
+      },
+      {
+        "question": "What exam do candidates have to pass before getting admission?",
+        "rank": 1
+      },
+      {
+        "question": "Which module teaches how to make database queries run faster?",
+        "rank": 1
+      },
+      {
+        "question": "Which tree-based algorithm is taught in supervised learning?",
+        "rank": null
+      },
+      {
+        "question": "Which technique for reducing the number of features is covered?",
+        "rank": 3
+      },
+      {
+        "question": "Which library is used for neural network training?",
+        "rank": 4
+      },
+      {
+        "question": "Which modern language model architectures are part of the generative AI module?",
+        "rank": 1
+      },
+      {
+        "question": "Is there a case study about trading in equities?",
+        "rank": null
+      },
+      {
+        "question": "Which business intelligence dashboard tool is offered as an optional module?",
+        "rank": 1
+      },
+      {
+        "question": "What will I learn about putting models into production?",
+        "rank": 4
+      },
+      {
+        "question": "Which project teaches how to configure a Spark application?",
+        "rank": 1
+      },
+      {
+        "question": "Which project involves estimating what a home will sell for?",
+        "rank": 1
+      },
+      {
+        "question": "Which IIT Roorkee professor advises the course?",
+        "rank": 1
+      },
+      {
+        "question": "What portion of the batch works in the IT industry?",
+        "rank": 1
+      },
+      {
+        "question": "Who switched careers from a customer service agent to a data scientist?",
+        "rank": 3
+      },
+      {
+        "question": "How many job openings can learners see every month on the job portal?",
+        "rank": 4
+      },
+      {
+        "question": "Who awards the certificate when the program is completed?",
+        "rank": 1
+      },
+      {
+        "question": "Does Intellipaat work with any universities in the United Kingdom?",
+        "rank": null
+      },
+      {
+        "question": "In which city is the Indian head office of Intellipaat?",
+        "rank": 1
+      },
+      {
+        "question": "How fast is the global data science industry expected to grow each year?",
+        "rank": 1
+      },
+      {
+        "question": "What shortage of data scientists did McKinsey predict?",
+        "rank": 1
+      }
+    ]
+  },
+  "lines_300": {
+    "summary": {
+      "hit@1": 0.4,
+      "hit@3": 0.833,
+      "hit@5": 0.867,
+      "mrr": 0.596,
+      "chunks": 82
+    },
+    "rows": [
+      {
+        "question": "What is the average salary hike?",
+        "rank": 1
+      },
+      {
+        "question": "How many hiring partners does the program have?",
+        "rank": 2
+      },
+      {
+        "question": "How many instructors with industry experience are there?",
+        "rank": 3
+      },
+      {
+        "question": "How many companies have had their employees trained?",
+        "rank": 5
+      },
+      {
+        "question": "How many data science jobs are open worldwide?",
+        "rank": 2
+      },
+      {
+        "question": "How many learners does the program claim to have?",
+        "rank": 2
+      },
+      {
+        "question": "How many months does the program run?",
+        "rank": 2
+      },
+      {
+        "question": "How many hours of hands-on learning does the course include?",
+        "rank": null
+      },
+      {
+        "question": "Is there an in-person visit to the institute during the course?",
+        "rank": 1
+      },
+      {
+        "question": "What educational qualification do applicants need?",
+        "rank": 3
+      },
+      {
+        "question": "What exam do candidates have to pass before getting admission?",
+        "rank": 1
+      },
+      {
+        "question": "Which module teaches how to make database queries run faster?",
+        "rank": 1
+      },
+      {
+        "question": "Which tree-based algorithm is taught in supervised learning?",
+        "rank": 3
+      },
+      {
+        "question": "Which technique for reducing the number of features is covered?",
+        "rank": 3
+      },
+      {
+        "question": "Which library is used for neural network training?",
+        "rank": null
+      },
+      {
+        "question": "Which modern language model architectures are part of the generative AI module?",
+        "rank": 1
+      },
+      {
+        "question": "Is there a case study about trading in equities?",
+        "rank": null
+      },
+      {
+        "question": "Which business intelligence dashboard tool is offered as an optional module?",
+        "rank": 2
+      },
+      {
+        "question": "What will I learn about putting models into production?",
+        "rank": 2
+      },
+      {
+        "question": "Which project teaches how to configure a Spark application?",
+        "rank": 2
+      },
+      {
+        "question": "Which project involves estimating what a home will sell for?",
+        "rank": 1
+      },
+      {
+        "question": "Which IIT Roorkee professor advises the course?",
+        "rank": 1
+      },
+      {
+        "question": "What portion of the batch works in the IT industry?",
+        "rank": 1
+      },
+      {
+        "question": "Who switched careers from a customer service agent to a data scientist?",
+        "rank": null
+      },
+      {
+        "question": "How many job openings can learners see every month on the job portal?",
+        "rank": 1
+      },
+      {
+        "question": "Who awards the certificate when the program is completed?",
+        "rank": 2
+      },
+      {
+        "question": "Does Intellipaat work with any universities in the United Kingdom?",
+        "rank": 3
+      },
+      {
+        "question": "In which city is the Indian head office of Intellipaat?",
+        "rank": 1
+      },
+      {
+        "question": "How fast is the global data science industry expected to grow each year?",
+        "rank": 1
+      },
+      {
+        "question": "What shortage of data scientists did McKinsey predict?",
+        "rank": 1
+      }
+    ]
+  }
+}
